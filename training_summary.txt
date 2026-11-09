@@ -1,0 +1,1 @@
+Dataset rows: 301\nDataset columns: 9\nTarget: Selling_Price\nTrain rows: 239\nTest rows: 60\nMAE: 1.5263\nRMSE: 3.6710\nR2: 0.4771\n
